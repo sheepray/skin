@@ -32,9 +32,9 @@
   text-align: center;
 }
 .alert-dialog__title {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 700;
-  line-height: 28px;
+  line-height: 32px;
   font-weight: bold;
   margin: 0;
 }
