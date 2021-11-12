@@ -214,7 +214,7 @@ span.carousel__container {
     -webkit-scroll-snap-type: x mandatory;
     -ms-scroll-snap-type: mandatory;
     -ms-scroll-snap-type: x mandatory;
-    scroll-snap-type: proximity;
+    scroll-snap-type: mandatory;
     -webkit-scroll-snap-type: x proximity;
         -ms-scroll-snap-type: x proximity;
             scroll-snap-type: x proximity;
